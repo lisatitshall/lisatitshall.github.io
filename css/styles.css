@@ -11439,6 +11439,7 @@ html {
   line-height: 2.75rem;
 }
 .masthead .masthead-subheading {
+  padding-top: 2rem;
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
