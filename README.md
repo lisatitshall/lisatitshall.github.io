@@ -1,2 +1,2 @@
 # lisatitshall.github.io
-Portfolio
+A portfolio showcasing the data analysis and data science projects I've worked on
